@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+
+@media screen and (max-width: 1080px) {
+    body {
+        background-color: pink;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    body {
+        background-color: purple;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    body {
+        background-color: orange;
+    }
+}
